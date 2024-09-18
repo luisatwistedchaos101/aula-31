@@ -1,4 +1,4 @@
-const tv = {
+/* const tv = {
   marca: "LG",
   modelo: "Thinqai",
   polegadas: 42,
@@ -26,3 +26,31 @@ const tv = {
 };
 
 tv.mudarAplicativo('Netflix');
+ */
+
+
+const estante = {
+cor: "branca",
+tipoDaMadeira: "",
+dimensoes: [
+  null, null, null
+],
+livros: [
+Livro1 = {
+  titulo: "Eu, ChristianeF",
+  autora: "Christiane Vera Felscherinow",
+  tamanho: [
+    null, null
+  ],
+  corDacapa: "pretoEBranco",
+},
+Livro2 = {
+  titulo: "Como Eu Era Antes de Você",
+autora: "Jojo Moyes",
+tamanho: [
+  null, null
+],
+corDacapa: "amarelo",
+}
+],
+}
